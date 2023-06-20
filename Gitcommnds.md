@@ -1,5 +1,13 @@
 <h1>Git</h1>
 
+##  Blogs
+
++ https://blog.palark.com/
++ https://www.containiq.com/blog-categories/resources
++ https://devconnected.com/
++ https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project
++ https://blog.pradumnasaraf.dev/dockerhub-githubactions
+
 1. Commits are immutable
 2. Commits contain all information about repository.
 3. How do you know which commit are you working on?
